@@ -21,7 +21,7 @@ HTML, CSS, Bootstrap, JavaScript
  "View Website"
 
 ## Screenshot:
-
+(final project.png)[Portfolio Screenshot]
 
 ## Setup:
 Open "index.html" in your browser.
