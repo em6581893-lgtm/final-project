@@ -18,7 +18,7 @@ HTML, CSS, Bootstrap, JavaScript
 - Interactive elements (JavaScript)
 
 ## Live Demo:
- "View Website"
+ (https://em6581893-lgtm.github.io/final-project/)["View Website"]
 
 ## Screenshot:
 (final project.png)[Portfolio Screenshot]
